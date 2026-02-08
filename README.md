@@ -1,6 +1,6 @@
 # Olympus Robotics 4982
 
-<img src="./funnyLogo.png" width="200" alt="Olympus Logo"/>
+<img src="./funnyLogoLong.png" width="500" alt="Olympus Logo"/>
 
 ## Purpose
 Github repo for code and documentation for FRC team 4982.
@@ -18,3 +18,5 @@ Github repo for code and documentation for FRC team 4982.
  Perry - 2024 season
 
  Riptide - 2025 season
+
+ Manual Test (Lebot) - 2026 season
